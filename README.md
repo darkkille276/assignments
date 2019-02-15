@@ -4,7 +4,7 @@
 
 This repository offers scripts to automatically label Twitter and Reddit users by gender and age, using self-reports . Using batches of 200 tweets/posts from their timeline, we train a fastText model to classify <b>other users</b> by gender and age. 
   
-The final assignment for the course "Applied Economics 1" can be found [here](https://htmlpreview.github.io/?https://github.com/darkkille276/assignments/tree/master/Final%20Assignment/Applied%20Economic%20Analysis%201.html).
+The final assignment for the course "Applied Economics 1" can be found [here](https://htmlpreview.github.io/?https://github.com/darkkille276/assignments/blob/master/Final%20Assignment/Applied%20Economic%20Analysis%201.html).
 
  <font size="+10"><b> Reproduction </b></font>
  
